@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "name": "MacBook Pro 13\" Display, i5",
+      "category": "Laptops",
+      "price": "₦1,199.99",
+      "image": "assets/images/demos/demo-14/products/product-6.jpg",
+      "rating": 100,
+      "reviews": 4
+    },
+    {
+      "id": 2,
+      "name": "Dell XPS 15 Laptop",
+      "category": "Laptops",
+      "price": "₦999.99",
+      "image": "assets/images/demos/demo-14/products/product-7.jpg",
+      "rating": 90,
+      "reviews": 3
+    }
+  ]
+  
