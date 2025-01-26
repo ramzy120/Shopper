@@ -1,0 +1,35 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "username": "user",
+        "email": "user@shopper.com",
+        "password": "123456"
+      }
+    ],
+
+    "products": [
+      {
+        "id": 1,
+        "name": "Product A",
+        "price": 25.99,
+        "image": "./public/products/product-1.jpg",
+        "description": "High-quality product A."
+      },
+      {
+        "id": 2,
+        "name": "Product B",
+        "price": 15.49,
+        "image": "./public/products/product-2.jpg",
+        "description": "Affordable product B."
+      },
+      {
+        "id": 3,
+        "name": "Product C",
+        "price": 45.00,
+        "image": "./public/products/product-3.jpg",
+        "description": "Luxury product C."
+      }
+    ]
+  }
+  
